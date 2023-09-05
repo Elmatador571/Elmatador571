@@ -1,16 +1,13 @@
-### Hi there 👋
+olá boas vindas ao meu perfil
 
-<!--
-**Elmatador571/Elmatador571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Lian 
 
-Here are some ideas to get you started:
+-e estou estudando no alura
+- estou me desenvolvendo na linguagem de Java script
+-utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### você entrar em contato comigo
+
+ lian.souza@escola.pr.gov.br
+
+ ![]()![image](https://github.com/Elmatador571/Elmatador571/assets/144159342/67c5be89-0466-4017-b617-16b0a58aa461))
